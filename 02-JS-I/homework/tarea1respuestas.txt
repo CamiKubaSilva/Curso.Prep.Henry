@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+
+
+	RESPUESTAS
+
+	VARIABLES: Son como cajas que contienen algo como palabras o números.
+
+	STRINGS: Son palabras o números que estan encerrados entre comillas.
+
+	FUNCIONES: Sirven para resolver problemas de manera más rápida y automátizada.
+
+	DECLARACIONES IF: Son condiciones para saber si algo es verdadero o falso.
+
+	VALORES BOOLEANOS: Responden a una funcion con verdadero o falso dependiendo del contenido.
