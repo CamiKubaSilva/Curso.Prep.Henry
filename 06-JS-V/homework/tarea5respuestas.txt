@@ -1,0 +1,14 @@
+# Homework: Javascript V
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+RESPUESTAS:
+
+PROTOTYPE: Es el elemento constructor al que se refiere otro elemento.
+
+CONSTRUCTORS: Son las propiedades que va a tener esa clase y que luego al crear un elemento con dicho prototype hereda las propiedades.
